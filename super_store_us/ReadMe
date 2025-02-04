@@ -1,1 +1,57 @@
 
+ANALYSIS QUESTIONS
+To check what is the most used shipmode and how many times it has been used
+To check the most used customer segment orders coming from
+Most to least sold product/sub product category ordered by region
+Most and least sales done in a month/ STATE/ REGION/ PRODUCTS/ SUB-PRODUCT WISE.
+MONTH WISE DIVISION
+STATE WISE
+SUB_PRODUCTS WITH ROLLUP
+Most to least ordering customer with quantity and sales figure with profit
+Period where the most orders were returned region wise
+Replacing the Not Specified in order_priority with Completed
+Region wise total_sales contribution
+Analyzing month wise region sales/profit percentage weightage with total sales/profit
+Finding out the details of the customers who returned their order
+Finding out the product category with char_len > 15
+Replacing and with &
+Replacing "Binders and Binder Accessories" with "Binders and Accessories"
+Month wise region's sales and profit
+Checking of order priority and product container with region, state, city with conditional searching
+Issuing of commission for sales over 50,000 for each month with cumulative sum.
+Analyzing all the regions
+Reason for using Chris as particular because central area covers most states
+Let's analyze how much the managers are making in bonuses
+Total Bonus Payouts
+Checking which city and region have the most active client
+Finding out which CITY is repeated in the same REGION but belongs to different STATES
+Finding those CITIES and STATE where the name of the city is the same but in different state.
+Analyzing p_category, p_sub_category month wise sales.
+Analyzing product category sales month-wise
+For checking how many cities are being covered
+Finding the number of times a ship mode is used in each State
+Getting the most used Delivery Mode Used by Each State
+Finding out the customers who placed orders >= 3 in a month.
+Finding out customer who placed orders >= 3 times on different days in a month
+Finding the TOP 2 SELLING Products of each category
+Finding out the products whose ODV is lower than the average order value
+Finding out the products whose ODV is lower than the average order value per customer
+Finding which REGION has the most ACTIVE CLIENTS
+Further analyzing this and checking month wise new customer acquisition
+Finding customers who have purchased from all the categories
+Number of Customers Per Order Value Bracket
+Finding products which are being sold on all the regions
+Finding the number of product_sub_category sold by each region
+Finding out how many types of product_sub_category are there
+Cumulative percentage of each product_sub_category of total sales
+Selecting the most ordered product_sub_category for every region
+Finding Customers' First Order Date
+Last Order with Date Difference
+Analyzing using bins of 10 days
+Providing customers with coupon if the last order date is more than 118 days
+Finding which product_name is the most ordered in which state/province
+Finding orders which are more than the average monthly sales
+Finding orders which have the order value more than the avg(monthly_region_category_sale) value
+To check the most used customer segment orders coming from
+Most to least sold product/sub-product category ordered by region
+Most and least sales done based on month, state, region, products, and sub-product.
